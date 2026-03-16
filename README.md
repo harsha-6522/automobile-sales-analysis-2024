@@ -17,6 +17,13 @@ The dashboard provides insights into total sales, market share, brand performanc
 - Time intelligence using Date table
 - Interactive filters and slicers
 
+## Skills Demonstrated
+- Data Analysis
+- Business Intelligence
+- Dashboard Development
+- Data Modeling
+- KPI Reporting
+
 ## Files Included
 - Power BI Dashboard
 - Dataset
